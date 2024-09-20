@@ -3,7 +3,7 @@
 <h3 align="center">A Software Development Enthusiast</h3>
 <img align="right" alt="Coding" width="400" src="https://www.lambdatest.com/resources/images/news24.gif">
 
-- 🌱 I’m currently learning **C and Java**
+- 🌱 I’m currently learning **App Devlopment**
 
 - 🤝 I’m looking for help with **learning new languages and basics of software development**
 
